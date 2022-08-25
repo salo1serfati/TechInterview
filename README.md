@@ -5,3 +5,6 @@ Welcome to the Chariot Tech Interview. During this session we will test differen
 ### Requirements
 - Node.js 12.22.0 or later
 - MacOS, Windows (including WSL), and Linux are supported
+
+### Challenge Questions 
+- Add functionality to store the question with the answer 
